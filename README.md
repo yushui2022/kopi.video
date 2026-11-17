@@ -162,6 +162,7 @@ We ship in small, verifiable steps. If a capability is not live, it does not bel
 | Docs | [kopi.video/docs](https://kopi.video/docs) |
 | Blog | [kopi.video/blog](https://kopi.video/blog) |
 | For AI agents | [kopi.video/llms.txt](https://kopi.video/llms.txt) |
+| Deep dive (Chinese) | [How Kopi works](docs/zh/how-kopi-works.md) |
 | Contact | [hello@kopi.video](mailto:hello@kopi.video) |
 
 ## 中文简介
@@ -180,6 +181,8 @@ Kopi.video 是一个面向电商卖家的 **AI UGC 广告生成器**：粘贴一
 - Cloudflare 全栈：Workers、Durable Objects、D1、R2、Workflows、Containers + FFmpeg。
 - SEO/GEO 基础：SSR、sitemap、结构化数据、`llms.txt`，以及 55 个公开 URL。
 - AI 标识与验证：生成内容默认带 AI 标识，并提供验证入口。
+
+深入阅读：[从一条参考视频到一条新广告：Kopi 的视频复刻原理](docs/zh/how-kopi-works.md)
 
 ## License
 
